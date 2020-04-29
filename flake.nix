@@ -1,6 +1,4 @@
 {
-  edition = 201909;
-
   description = "A function for fetching the crates listed in a Cargo lock file";
 
   outputs = { self }: rec {
